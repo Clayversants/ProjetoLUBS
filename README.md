@@ -41,3 +41,11 @@ Desenvolvi uma tooltip para fornecer uma visão mais detalhada do desempenho de 
  - Dimensão Calendário: Integra datas para análises temporais como comparações ano a ano, mês a mês e variações sazonais.
  <br>
  Esse modelo é essencial para criar dashboards dinâmicos e gerar insights mais profundos sobre as vendas e operações!
+
+ <br><br><br>
+ ## Ferramentas e linguagens utilizadas
+ <div style="display: inline_block">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+</div>
+
