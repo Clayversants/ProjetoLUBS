@@ -41,8 +41,13 @@ Desenvolvi uma tooltip para fornecer uma visão mais detalhada do desempenho de 
  - Dimensão Calendário: Integra datas para análises temporais como comparações ano a ano, mês a mês e variações sazonais.
  <br>
  Esse modelo é essencial para criar dashboards dinâmicos e gerar insights mais profundos sobre as vendas e operações!
-
+<br><br>
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiNGVhNzJmMTgtNGRlYi00NWI0LThjOWMtNWQ3MDY5MDk3NTFhIiwidCI6ImI5NjJjYTc2LTIwODEtNGQyNy05NDJiLTFmZWE0MmNhN2VlYyJ9" target="_blank">Clique aqui</a> para acessar o dashboard.
+ <br>
+ <a href="https://github.com/Clayversants/ProjetoLUBS" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+ 
  <br><br><br>
+ 
  ## Ferramentas e linguagens utilizadas
  <div style="display: inline_block">
     <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
